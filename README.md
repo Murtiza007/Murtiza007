@@ -11,7 +11,7 @@
  
  🔭 Currently a full stack JAVA developer and a code mentor @Interface Technologies
  
- 🌱 I’m  also currently having footsteps in data analytics, ML, data exploration using python 
+ 🌱 I’m  also currently having footsteps in Data Science and Analytics, ML, Data Exploration using Python 
 
 
  </div>
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,spring,html,css,vscode,github,figma," />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,tensorflow,mysql,git,bootstrap,react" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,tensorflow,mysql,git,bootstrap,react,oracle" /><br>
 </div>
 
 <br/>
